@@ -5,7 +5,7 @@
 
 
 ##### Мой стек:  
-REACT / Redux / JS / HTML / CSS
+React.js / Redux / JavaScript / HTML / CSS
 
 📫 skvorts0va.ak@yandex.ru вот сюда мне можно написать 
 
