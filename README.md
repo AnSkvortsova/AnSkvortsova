@@ -1,14 +1,9 @@
 ### Привет 👋, я Настя
 
-начинающий web-разработчик. Закончила Яндекс Практикума.
-Мой дипломный проект [movies explorer](https://movielover.nomoredomains.work/) - сервис по поиску фильмов.
+Middle+ Frontend developer с опытом разработки веб сервисов от проектирования до обеспечения качества и мониторинга. 
 
 
 ##### Мой стек:  
-React.js / Redux / JavaScript / HTML / CSS
+ReactJS / TypeScript / MobX State Tree / Redux / CSS Modules / Styled Components / Node.js / PostgreSQL / TypeORM
 
-📫 skvorts0va.ak@yandex.ru вот сюда мне можно написать 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnSkvortsova) 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnSkvortsova&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnSkvortsova)](https://github.com/anuraghazra/github-readme-stats)
+📫 Написать мне можно в телеграм: @an_skvortsova 
